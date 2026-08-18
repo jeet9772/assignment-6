@@ -25,6 +25,7 @@ chmod +x otProcessManager
 
 ### Screenshot
 
+<img width="1440" height="900" alt="Screenshot 2026-08-18 at 4 39 48 PM" src="https://github.com/user-attachments/assets/93f00e5b-1b4b-4ae5-9b19-10fbc31e3bbf" />
 
 ---
 
@@ -44,7 +45,8 @@ For CPU:
 
 ### Screenshot 2
 
-<img width="1440" height="900" alt="Screenshot 6 1" src="https://github.com/user-attachments/assets/bd541b18-f897-46b9-91b1-2874d33d79a1" />
+<img width="1440" height="900" alt="Screenshot 2026-08-18 at 4 42 16 PM" src="https://github.com/user-attachments/assets/c57ea6b7-35fd-4a02-bc9c-aafa9edeffd0" />
+
 
 
 ---
@@ -63,11 +65,6 @@ Verify the running processes:
 ps
 ```
 
-### Screenshot 3
-
-![Kill Least Priority Process](images/screenshot3.png)
-
----
 
 ## 4. Running Duration of a Process
 
@@ -85,12 +82,6 @@ Using process name:
 ./otProcessManager RunningDurationProcess bash
 ```
 
-### Screenshot 4
-
-![Running Duration](images/screenshot4.png)
-
----
-
 ## 5. List Orphan and Zombie Processes
 
 ### List Orphan Processes
@@ -107,7 +98,8 @@ Using process name:
 
 ### Screenshot 5
 
-![Orphan and Zombie Processes](images/screenshot5.png)
+<img width="1440" height="900" alt="Screenshot 2026-08-18 at 4 49 58 PM" src="https://github.com/user-attachments/assets/f3034000-1a0e-4ad1-8b04-a170e2177e81" />
+
 
 ---
 
@@ -126,8 +118,8 @@ List waiting processes:
 ```
 
 ### Screenshot 6
+<img width="1440" height="900" alt="screenshot 6 3" src="https://github.com/user-attachments/assets/e0449bd5-77b7-4c45-b2bd-c8165d3c3ea7" />
 
-![Kill and Waiting Processes](images/screenshot6.png)
 
 ---
 
