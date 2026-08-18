@@ -192,6 +192,7 @@ Check its status:
 ./ProcessManager.sh -o status -a myservice
 ```
 
+  
 ---
 
 ## 5. Change Service Priority
@@ -242,9 +243,10 @@ Verify that the service has stopped:
 ./ProcessManager.sh -o top -a myservice
 ```
 
-### Screenshot 7
+### Screenshot 5
 
-![ProcessManager Service Management](images/screenshot7.png)
+ <img width="1440" height="900" alt="Screenshot 6 6" src="https://github.com/user-attachments/assets/2e249760-0080-4567-8ded-8c4d57f31cb6" />
+
 
 ---
 
