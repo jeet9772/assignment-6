@@ -1,4 +1,4 @@
-# assignment-6
+
 # Assignment 6 – Process Management Utilities
 
 **Submitted by:** Jeetendra Singh
@@ -96,7 +96,7 @@ Using process name:
 ./otProcessManager listZoombieProcess
 ```
 
-### Screenshot 5
+### Screenshot 3
 
 <img width="1440" height="900" alt="Screenshot 2026-08-18 at 4 49 58 PM" src="https://github.com/user-attachments/assets/f3034000-1a0e-4ad1-8b04-a170e2177e81" />
 
@@ -117,7 +117,7 @@ List waiting processes:
 ./otProcessManager ListWaitingProcess
 ```
 
-### Screenshot 6
+### Screenshot 4
 <img width="1440" height="900" alt="screenshot 6 3" src="https://github.com/user-attachments/assets/e0449bd5-77b7-4c45-b2bd-c8165d3c3ea7" />
 
 
