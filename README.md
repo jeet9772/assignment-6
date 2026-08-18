@@ -23,9 +23,7 @@ Give execute permission:
 chmod +x otProcessManager
 ```
 
-### Screenshot 1
-
-<img width="1440" height="900" alt="Screenshot 6 1" src="https://github.com/user-attachments/assets/fd44e0b3-ffdb-48f8-a90d-15314b3f4629" />
+### Screenshot
 
 
 ---
@@ -46,7 +44,8 @@ For CPU:
 
 ### Screenshot 2
 
-![Top Processes by Memory and CPU](images/screenshot2.png)
+<img width="1440" height="900" alt="Screenshot 6 1" src="https://github.com/user-attachments/assets/bd541b18-f897-46b9-91b1-2874d33d79a1" />
+
 
 ---
 
